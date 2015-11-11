@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=KArc
+
+X-KDE-PluginInfo-Author=J.Rutkowski
+X-KDE-PluginInfo-Email=zbeptz@gmail.com
+X-KDE-PluginInfo-Name=KArc
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=CCPL:by-sa
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=true
+contrast=0.2
+intensity=0.4
+saturation=1.7
