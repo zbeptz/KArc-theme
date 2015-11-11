@@ -1,4 +1,4 @@
-# KArc-theme
+# KArc
 
 An Arc port to the KDE Aurorae engine. KArc is a flat theme with support for transparency using QTCurve. KArc also supports translucent window backgrounds (blurred and increased contract) using Desktop Effects.
 
