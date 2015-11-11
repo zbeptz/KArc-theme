@@ -33,3 +33,10 @@ To enable translucency, go to `System Settings > Desktop Behavior > Desktop Effe
 ### Bug reporting
 
 If you find a bug, please report it at https://github.com/zbeptz/KArc-theme/issues
+
+### Full Preview
+![alt tag](http://i.imgur.com/JOhJv9S.png)
+
+![alt tag](http://i.imgur.com/xFmZfb3.png)
+
+![alt tag](http://i.imgur.com/076z6Ks.png)
