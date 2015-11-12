@@ -24,7 +24,7 @@ An Arc port to the KDE Aurorae engine. KArc is a flat theme with support for tra
 
      git clone https://github.com/zbeptz/KArc-theme.git && cd KArc-theme
      cp -r {KArc,KArc-Dark} ~/.local/share/aurorae/themes/
-     cd desktoptheme && cp -r KArc ~/.local/share/plasma/desktoptheme
+     cd desktoptheme && cp -r {KArc,KArc-transparent} ~/.local/share/plasma/desktoptheme
      cd .. && cp {KArcDark.colors,KArc.colors} ~/.local/share/color-schemes
      cp KArc.qtcurve ~/.local/share/QTCurve
      
